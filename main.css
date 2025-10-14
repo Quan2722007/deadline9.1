@@ -196,6 +196,7 @@ body {
             line-height: 28px;
             font-weight: 700;
             height: 21px;
+            color: #17494d;
           }
           .inner__arrow {
             width: 24px;
@@ -250,6 +251,7 @@ body {
           line-height: 28px;
           font-weight: 700;
           height: 21px;
+          color: #17494d;
         }
         .inner__arrow {
           cursor: pointer;
@@ -335,6 +337,7 @@ body {
           line-height: 28px;
           font-weight: 700;
           width: 185.97px;
+          color: #17494d;
         }
         .inner__arrow {
           width: 24px;
@@ -428,6 +431,7 @@ body {
             font-size: 17px;
             line-height: 28px;
             font-weight: 700;
+            color: #17494d;
           }
           .inner__arrow {
             width: 24px;
@@ -443,6 +447,7 @@ body {
             font-size: 17px;
             line-height: 28px;
             font-weight: 700;
+            color: #17494d;
           }
           .inner__arrow {
             width: 24px;
@@ -458,7 +463,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 64px 0;
+    padding-top: 64px;
     .box__title {
       display: flex;
       flex-direction: column;
@@ -582,6 +587,7 @@ body {
           .link {
             font-size: 15px;
             font-weight: 700;
+            color: #17494d;
           }
           .arrow {
             width: 24px;
@@ -686,7 +692,7 @@ body {
     width: 1104px;
     align-items: center;
     gap: 100px;
-    padding: 64px 0;
+    padding: 64px 8px;
     .inner__box {
       display: flex;
       flex-direction: column;
@@ -798,6 +804,7 @@ body {
         width: 1104px;
         justify-content: space-between;
         height: 64px;
+        margin-top: 24px;
         .inner__screen {
           display: flex;
           flex-direction: column;
