@@ -202,7 +202,7 @@ body {
             width: 24px;
             height: 24px;
             cursor: pointer;
-            padding: 8.21px 5.73px 6.94px 6.24px;
+            padding: 10.21px 5.73px 5.94px 0.24px;
           }
         }
       }
@@ -258,7 +258,7 @@ body {
           cursor: pointer;
           width: 24px;
           height: 24px;
-          padding: 8.21px 5.73px 6.94px 6.24px;
+          padding: 10.21px 5.73px 5.94px 0.24px;
         }
       }
     }
@@ -442,7 +442,7 @@ body {
           }
         }
         .inner__button-2 {
-          margin-top: 50px;
+          margin-top: 53gipx;
           display: flex;
           align-items: center;
           .inner__link {
