@@ -859,6 +859,13 @@ body {
         align-items: center;
         font-size: 11px;
         line-height: 28px;
+        a {
+          text-decoration: none;
+          color: #68737d;
+        }
+        a:hover {
+          text-decoration: underline;
+        }
         .distance {
           display: flex;
           gap: 11.86px;
