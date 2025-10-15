@@ -26,12 +26,14 @@ body {
   align-items: center;
 }
 .header {
-  padding: 158px 0 64px 0;
+  position: relative;
+  height: 753px;
   display: flex;
   justify-content: center;
-  align-items: center;
   background-color: var(--background__header);
   .header__box {
+    top: 174px;
+    position: absolute;
     display: flex;
     align-items: center;
     padding: 0 73px 3px 8px;
