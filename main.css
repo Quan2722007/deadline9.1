@@ -83,7 +83,7 @@ body {
           width: 145.27px;
           height: 48px;
           color: var(--color__button-2);
-          border: 2px solid var(--border__button);
+          border: 3px solid var(--border__button);
         }
       }
     }
