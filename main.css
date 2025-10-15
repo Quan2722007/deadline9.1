@@ -195,14 +195,12 @@ body {
             font-size: 17px;
             line-height: 28px;
             font-weight: 700;
-            height: 21px;
             color: #17494d;
           }
           .inner__arrow {
             width: 24px;
             height: 24px;
             cursor: pointer;
-            padding: 10.21px 5.73px 5.94px 0.24px;
           }
         }
       }
@@ -251,14 +249,12 @@ body {
           font-size: 17px;
           line-height: 28px;
           font-weight: 700;
-          height: 21px;
           color: #17494d;
         }
         .inner__arrow {
           cursor: pointer;
           width: 24px;
           height: 24px;
-          padding: 10.21px 5.73px 5.94px 0.24px;
         }
       }
     }
