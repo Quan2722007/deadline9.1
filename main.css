@@ -830,7 +830,6 @@ body {
         align-items: center;
         width: 444px;
         height: 48px;
-        border: 1px solid black;
         box-shadow: 0 0 0 1px #68737d;
         .search {
           padding: 12px;
