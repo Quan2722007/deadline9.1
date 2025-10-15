@@ -332,7 +332,6 @@ body {
       .inner__button {
         display: flex;
         align-items: center;
-        justify-content: center;
         margin-top: 22px;
         .inner__link {
           text-underline-offset: 4px;
