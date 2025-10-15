@@ -193,6 +193,7 @@ body {
           align-items: center;
           margin-top: 26px;
           .inner__link {
+            text-underline-offset: 4px;
             font-size: 17px;
             line-height: 28px;
             font-weight: 700;
@@ -247,6 +248,7 @@ body {
         align-items: center;
         margin-top: 22px;
         .inner__link {
+          text-underline-offset: 4px;
           font-size: 17px;
           line-height: 28px;
           font-weight: 700;
@@ -333,6 +335,7 @@ body {
         justify-content: center;
         margin-top: 22px;
         .inner__link {
+          text-underline-offset: 4px;
           line-height: 28px;
           font-weight: 700;
           width: 185.97px;
@@ -428,6 +431,7 @@ body {
           align-items: center;
           margin-top: 30px;
           .inner__link {
+            text-underline-offset: 4px;
             font-size: 17px;
             line-height: 28px;
             font-weight: 700;
