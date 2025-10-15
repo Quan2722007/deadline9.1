@@ -428,7 +428,7 @@ body {
         .inner__button-1 {
           display: flex;
           align-items: center;
-          margin-top: 30px;
+          margin-top: 29px;
           .inner__link {
             text-underline-offset: 4px;
             font-size: 17px;
