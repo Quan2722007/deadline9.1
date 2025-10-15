@@ -907,3 +907,10 @@ body {
   width: 184px;
   height: 397px;
 }
+.footer__driver{
+  border: none;
+  height: 1px;
+  width: 100%;
+  background-color: #c1c7c6;
+  margin: 16px 0 24px 0;
+}
